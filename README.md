@@ -92,7 +92,9 @@ This is a common methodological pitfall in genomic prediction studies.
 
 ## Run it yourself
 
-[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NLbwYfiDb3fhgKETGzeIeD7tlrdCrwUd#scrollTo=pOy1ewSfH8up)
+## Run it yourself
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NLbwYfiDb3fhgKETGzeIeD7tlrdCrwUd#scrollTo=pOy1ewSfH8up)
 
 
 
