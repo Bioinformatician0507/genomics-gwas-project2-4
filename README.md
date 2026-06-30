@@ -90,6 +90,11 @@ Data leakage in PRS evaluation artificially inflates predictive
 performance. Discovery and target cohorts must always be independent. 
 This is a common methodological pitfall in genomic prediction studies.
 
+## Run it yourself
+
+[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NLbwYfiDb3fhgKETGzeIeD7tlrdCrwUd#scrollTo=pOy1ewSfH8up)
+
+
 
 ## Key concepts demonstrated
 - Effect size weighting for polygenic scoring
